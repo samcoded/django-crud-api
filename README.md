@@ -2,7 +2,7 @@
 
 
 ## Create Environment and Activate
-`virtualenv venv`
+<code>virtualenv venv</code>
 
 `source venv/bin/activate`
 
