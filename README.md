@@ -6,7 +6,7 @@
   virtualenv venv
 ```
   
-`source venv/bin/activate`
+``` source venv/bin/activate ```
 
 ## Environment Variables
 Rename `.env.example` to `.env`
