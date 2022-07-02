@@ -2,8 +2,10 @@
 
 
 ## Create Environment and Activate
-<code>virtualenv venv</code>
-
+```
+  virtualenv venv
+```
+  
 `source venv/bin/activate`
 
 ## Environment Variables
