@@ -10,9 +10,6 @@
   source venv/bin/activate 
 ```
 
-## Environment Variables
-Rename `.env.example` to `.env`
-
 ## Packages
 Install packages from requirements.txt
 
@@ -23,3 +20,5 @@ Install packages from requirements.txt
 ```
   pip install -r requirements.txt
 ```
+## Environment Variables
+Rename `.env.example` to `.env`
